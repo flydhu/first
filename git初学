@@ -1,5 +1,6 @@
-git status
-git add
-git push
-git pull
-
+git status 
+git add  数据检测
+git commit 数据提交
+git push 上传数据
+git pull 下拉数据
+git reset --hard "回滚目的地址"
